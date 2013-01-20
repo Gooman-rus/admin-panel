@@ -1,0 +1,25 @@
+/*-------------------------------------------------------------------
+
+	Skype:		czalexpic
+	Email:		czalexpic@gmail.com
+	Website:	http://www.free-lance.ru/users/PhoenAleXiX
+	
+-------------------------------------------------------------------*/
+
+@media Screen  {
+
+html {font-size: 101.5%;}
+* +html .content_column ul.page_nav li {width: 49.9%;}
+* html .content_column ul.page_nav li {width: 49.9%;}
+* html .index_content_position .right_column {padding: 0 0 0 19px; margin: 0 -125px 0 0;}
+* html .main_links ul li a strong {height: 40px;}
+* html .main_links ul,
+* html .index_content_position,
+* html .inner_content_position,
+* html .content_column,
+* html .content_column ul.breadcrumbs,
+* html .photo_slider .controll,
+* html .content_column ul.page_nav,
+* html .parnter_list,
+* html .content_column ul.portfolio li {overflow: visible; height: 1px;}
+}
